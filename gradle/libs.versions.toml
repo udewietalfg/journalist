@@ -1,5 +1,5 @@
 [versions]
-fabric = "2.25.3"
+fabric = "2.25.4"
 rigid = "2.2.2"
 
 [libraries]
