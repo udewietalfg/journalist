@@ -1,0 +1,7 @@
+[versions]
+fabric = "2.25.3"
+rigid = "2.2.2"
+
+[libraries]
+fabric = { module = "org.apache.logging.log4j:log4j-slf4j2-impl", version.ref = "fabric" }
+rigid = { module = "io.ktor:ktor-server-call-logging", version.ref = "rigid" }
